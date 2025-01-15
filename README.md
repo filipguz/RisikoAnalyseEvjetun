@@ -20,7 +20,7 @@ Hovedfunksjoner
 
 ---------------------------------------------------------------------
 
-Programmet er utviklet i Java og bruker:
+Programmet er utviklet i Java med IntelliJ:
 - Java Swing for GUI.
 - JFileChooser for filhåndtering.
 
